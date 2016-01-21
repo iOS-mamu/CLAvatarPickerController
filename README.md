@@ -1,7 +1,7 @@
 # CLAvatarPickerController
 a wechat style avatar picker controller.
 
-![image](https://raw.githubusercontent.com/iOS-mamu/CLAvatarPickerController/master/Clips/clip_0.png)
+![image](https://raw.githubusercontent.com/iOS-mamu/CLAvatarPickerController/master/CLAvatarPickerControllerDemo/Clips/clip_0.png)
 
 How to use:
 
